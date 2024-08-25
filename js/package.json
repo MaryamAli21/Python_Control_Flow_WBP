@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-python-python-control-flow-wbp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
